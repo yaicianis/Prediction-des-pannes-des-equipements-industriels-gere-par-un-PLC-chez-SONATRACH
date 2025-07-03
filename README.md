@@ -1,0 +1,1 @@
+# Prediction-des-pannes-des-equipements-industriels-gere-par-un-PLC-chez-SONATRACH
